@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "updated_by": "internship project",
+  "sha256": {
+    "197ec5c81e549ae0b5a79396ca6d62f2768aeae7f0ea422c2275347c008c3e30": {
+      "name": "Demo.Test.File",
+      "severity": "high",
+      "category": "demo-hash",
+      "note": "Harmless sample used only for project testing"
+    },
+    "d646c6acc3e19c9934f0cb9416c6ec1497d4572bc90d9bd0378d87d4dafa3c31": {
+      "name": "Fake.Invoice.Dropper",
+      "severity": "medium",
+      "category": "demo-hash",
+      "note": "Harmless sample with suspicious double extension"
+    }
+  }
+}
