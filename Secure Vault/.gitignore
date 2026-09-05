@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.stv
+vault_key.json
+my_key.json
+decrypted_*
