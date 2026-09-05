@@ -1,0 +1,13 @@
+{
+  "gateway_ip": "",
+  "trusted_hosts": {},
+  "ignored_macs": [
+    "00:00:00:00:00:00",
+    "ff:ff:ff:ff:ff:ff"
+  ],
+  "auto_learn": true,
+  "cooldown_seconds": 20,
+  "burst_window_seconds": 180,
+  "burst_change_limit": 3,
+  "update_known_after_change": false
+}
