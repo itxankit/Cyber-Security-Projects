@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+reports/*.json
+reports/*.csv
+quarantine/*.quar
+quarantine/index.json
+scanner_data/baseline.json
